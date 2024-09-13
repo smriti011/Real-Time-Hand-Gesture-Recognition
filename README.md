@@ -29,5 +29,7 @@ _________________________________________________________________
 dense_2 (Dense)              (None, 3)                 99        
 
 Total params    : 596,675
+
 Trainable params: 596,675
+
 Non-trainable params: 0
