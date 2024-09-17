@@ -18,7 +18,10 @@ Keypoints:
 1. Left Hand
 2. Right Hand
 3. Face
-4. Pose 
+4. Pose
+
+![S](https://github.com/user-attachments/assets/3780c251-c64e-4588-bbeb-3d0d0f34a9f6)
+
 
 
 **Start collecting data points through OpenCV window**
