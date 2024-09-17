@@ -23,7 +23,13 @@ Keypoints:
 
 **Start collecting data points through OpenCV window**
 
+Labels : "Hello" , "Thank You" , "Bye"
+
 ![output3](https://github.com/user-attachments/assets/d3911eab-278a-453e-bfc5-c71a252fc6d9)
+
+
+![Screenshot 2024-09-17 105555](https://github.com/user-attachments/assets/4cee7f78-0e9b-4d86-b45d-03929f89c5fb)
+
 
 
 **Extract Keypoints Values**
@@ -84,5 +90,9 @@ Framework : Scipy
 Libraries : stats
 
 ![Screenshot 2024-09-17 111409](https://github.com/user-attachments/assets/b360ee57-8bf0-41e8-bf9f-e9cd5f996469)
+
+Continuous Hand Movements : 
+
+![Screenshot 2024-09-17 111706](https://github.com/user-attachments/assets/ba9b0677-d80c-4557-ac7d-2f6e5867d8e4)
 
 
