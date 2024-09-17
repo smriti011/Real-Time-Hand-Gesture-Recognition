@@ -44,14 +44,14 @@ Create a NUMPY array for ['hello', 'thanks', 'Bye']
 
 **Pre-processing Data and create Labels and Features**
 
+Label_map = **{'hello': 0, 'thanks': 1, 'Bye': 2}**
+
 
 **Train a Deep Neural Network with LSTM layers for sequences**
 
 Frameworks : Tensorflow , Sklearn
 
 Libraries  : Sequential, LSTM, Dense, TensorBoard
-
-Label_map = **{'hello': 0, 'thanks': 1, 'Bye': 2}**
 
 Number of EPOCHS = 200
 
