@@ -92,14 +92,12 @@ Framework : Scipy
 
 Libraries : stats
 
-![Screenshot 2024-09-17 111409](https://github.com/user-attachments/assets/b360ee57-8bf0-41e8-bf9f-e9cd5f996469)
 
 ![Screenshot 2025-01-29 222525](https://github.com/user-attachments/assets/fe7fd435-13a2-4b6a-b621-f9ee7d940b30)
 
 
 Continuous Hand Movements : 
 
-![Screenshot 2024-09-17 111706](https://github.com/user-attachments/assets/ba9b0677-d80c-4557-ac7d-2f6e5867d8e4)
 
 ![Screenshot 2025-01-29 222549](https://github.com/user-attachments/assets/3b26ee14-3ee3-44c7-9094-9dd89b656dfc)
 
